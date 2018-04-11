@@ -1,19 +1,4 @@
-Stanford Sentiment Treebank V1.0
-
 This is the dataset of the paper:
-
-Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank
-Richard Socher, Alex Perelygin, Jean Wu, Jason Chuang, Christopher Manning, Andrew Ng and Christopher Potts
-Conference on Empirical Methods in Natural Language Processing (EMNLP 2013)
-
-If you use this dataset in your research, please cite the above paper.
-
-@incollection{SocherEtAl2013:RNTN,
-title = {{Parsing With Compositional Vector Grammars}},
-author = {Richard Socher and Alex Perelygin and Jean Wu and Jason Chuang and Christopher Manning and Andrew Ng and Christopher Potts},
-booktitle = {{EMNLP}},
-year = {2013}
-}
 
 This file includes:
 1. original_rt_snippets.txt contains 10,605 processed snippets from the original pool of Rotten Tomatoes HTML files. Please note that some snippet may contain multiple sentences.
