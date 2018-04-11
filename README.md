@@ -57,17 +57,24 @@ The|gorgeously|elaborate|continuation|of|``|The|Lord|of|the|Rings|''|trilogy|is|
 
 71|70|69|69|67|67|66|64|63|62|62|61|61|58|57|57|56|53|53|52|52|49|49|50|48|45|44|43|43|42|42|41|39|38|38|40|60|39|40|41|47|46|44|45|46|47|48|51|50|51|55|54|54|55|56|59|58|59|60|73|65|63|64|65|66|68|68|72|70|71|72|73|0
 
-# dataSentences (sentence_index      sentence):
+# dataSentences (sentence_index		sentence):
 1	The Rock is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
 
 2	The gorgeously elaborate continuation of `` The Lord of the Rings '' trilogy is so huge that a column of words can not adequately describe co-writer\/director Peter Jackson 's expanded vision of J.R.R. Tolkien 's Middle-earth .
 
 # datasetSplit (sentence_index, splitset_label)
-1,1    
+1,1 
+
 2,1
+
 3,2
+
 (1 = train, 2 = test, 3 = dev)
+
 1 = 8544
+
 2 = 2210
+
 3 = 1101
+
 Total of 11855
