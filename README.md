@@ -78,3 +78,16 @@ The|gorgeously|elaborate|continuation|of|``|The|Lord|of|the|Rings|''|trilogy|is|
 3 = 1101
 
 Total of 11855
+
+
+# Example
+# From Original_rt_snippets
+The Rock is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+# From datasetSentences
+1               The Rock is destined to be the 21st Century 's new `` Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .
+# From SOStr
+The|Rock|is|destined|to|be|the|21st|Century|'s|new|``|Conan|''|and|that|he|'s|going|to|make|a|splash|even|greater|than|Arnold|Schwarzenegger|,|Jean-Claud|Van|Damme|or|Steven|Segal|.
+# From Dictionary
+The Rock is destined to be the 21st Century 's new '' Conan '' and that he 's going to make a splash even greater than Arnold Schwarzenegger , Jean-Claud Van Damme or Steven Segal .|14487
+# From Sentiment_labels
+14487|0.83333
