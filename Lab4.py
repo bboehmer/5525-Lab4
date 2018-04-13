@@ -38,7 +38,7 @@ with open('sentiment_labels.txt') as fp:
         number= line[:index]
         numberInt = int(number)
         rating = line[index+1:]
-        arrayOfNum[numberInt]=rating
+        arrayOfNumbers[numberInt]=rating
 
 #Now arrayofNum has the sentiment value of the dictionary word at its index aka arrayOfNum[1]= the sentiment value of the dictionary word with label 1
 
