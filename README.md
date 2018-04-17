@@ -4,12 +4,16 @@ For this lab we implemented option 1, a naive bayes classifier.  We found that o
 
 Our results are shown below:
 
-Performance Using All Observed Words
+Performance Using All Observed Words:
+
 Training Performance: 92.65%
+
 Testing Performance: 35.48%
 
-Performance Using Only Known Words
+Performance Using Only Known Words:
+
 Training Performance: 30.72%
+
 Testing Performance: 19.68%
 
 To run the lab, open a jupyter notebook and simply run all of the cells in "lab4.inpy" using python 3.
